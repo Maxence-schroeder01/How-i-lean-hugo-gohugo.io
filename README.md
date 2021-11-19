@@ -11,3 +11,7 @@ Apprendre comment uttiliser hugo
 
 le develloper sur un site web type vps pour Max.Prime_() (enterprise)
 
+
+
+## More
+Version d'hugo: hugo v0.89.4
