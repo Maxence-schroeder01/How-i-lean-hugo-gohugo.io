@@ -7,9 +7,7 @@ How i lean hugo || gohugo.io || with tuto and documentations
 
 ## Objectifs: 
 
-Apprendre comment uttiliser hugo
-
-le develloper sur un site web type vps pour Max.Prime_() (enterprise)
+Make Website for Max.Prime_() (enterprise)
 
 
 
