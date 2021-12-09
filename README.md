@@ -7,7 +7,7 @@ How i lean hugo || gohugo.io || with tuto and documentations
 
 ## Objectifs: 
 
-Make Website for Max.Prime_() (enterprise)
+Just try this framework
 
 
 
