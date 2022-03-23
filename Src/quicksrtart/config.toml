@@ -122,49 +122,9 @@ languageName = ":fr:"
 [[languages.fr.menu.main]]
 name = "A Propos"
 weight = 1
-url = "apropos/"
-
-[[languages.fr.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
-
-[[languages.fr.menu.main]]
-name = "Projets"
-weight = 3
-url = "projets/"
+url = "about/"
 
 [[languages.fr.menu.main]]
 name = "Contact"
-weight = 5
-url = "contact/"
-
-[languages.en-br]
-languageName = ":us:"
-title = "Maxence Schroeder"
-
-[languages.en-br.params]
-author = "Maxence Schroeder"
-info =  ["DEVELOPER STUDENTS", "Magician"]
-description = "Max's personal site"
-keywords = "blog,developer,folks"
-
-[[languages.en-br.menu.main]]
-name = "About"
-weight = 1
-url = "apropos/"
-
-[[languages.en-br.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
-
-[[languages.en-br.menu.main]]
-name = "Projects"
-weight = 3
-url = "projets/"
-
-[[languages.en-br.menu.main]]
-name = "Contact me"
 weight = 5
 url = "contact/"
