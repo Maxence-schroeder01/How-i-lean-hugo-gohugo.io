@@ -23,3 +23,4 @@ cd src/quick.../
 
 hugo server -D
 ```
+on web : http://localhost:1313/
