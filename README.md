@@ -16,10 +16,10 @@ Version d'hugo: hugo v0.89.4
 
 for use it 
 
-"""
+'''
 npm install hugo
 
 cd src/quick.../
 
 hugo server -D
-"""
+'''
